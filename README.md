@@ -1,3 +1,7 @@
+# Code
+Clone this repository and check the src/README.md file
+
+
 # Metrics
 Complete result for Rouge-1/2/L metrics for the evaluated datasets.
 
